@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="Practice/Practice.csproj" />
+  <Project Path="Practice/Section1,2.csproj" />
+  <Project Path="Section3/Section3.csproj" Id="ba69eb39-29b4-4d33-a650-6a425b0e8b8a" />
+  <Project Path="Section4/Section4.csproj" Id="22e2c7f4-6a20-49c1-bb70-598ea1c27d97" />
 </Solution>
